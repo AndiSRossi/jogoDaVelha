@@ -29,6 +29,6 @@ section {
   margin: 0 auto; 
 }
 .jogo {
-  max-height: 302px;
-  max-width: 302px;
+  height: 302px;
+  width: 302px;
 }
