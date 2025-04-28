@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-color:gray;
+  background-repeat: no-repeat;
+}
+
+section {
+  background-color: rgba(0, 0, 0, 0.13);
+}
+
+.jogador1 {
+  background-image: url('img/jogador_1.png');
+}
+.jogador2 {
+  background-image: url('img/jogador_2.png');
+}
+.jogador1, .jogador2 {
+  height: 150px;
+  width: 150px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+  margin: 0 auto; 
+}
